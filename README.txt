@@ -75,6 +75,7 @@ As most of the users are using chinese brands like Oppo, Vivo, Redmi, Realme, On
 I have not included all the native apps of these devices, but if you want that in further versions
 then join the discord server and give me suggestions and also any new feature you will like to see.
 Link for server: https://discord.gg/jm8Sr5Z
+THIS SERVER IS NOT ACTIVE RIGHT NOW
 
 ---------------------------------------------------------------------------------------------------
 Please dont run the file without connecting your device.
