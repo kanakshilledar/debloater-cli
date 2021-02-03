@@ -1,0 +1,107 @@
+TikTok		:	com.zhiliaoapp.musically
+TikTok Lite	:	com.zhiliaoapp.musically.go
+TikTok Wall	:	com.zhiliao.musically.livewallpaper
+TikTok Wall Lite:	com.ss.android.ugc.tiktok.livewallpaper
+Zoom		:	us.zoom.videomeetings
+Vault-Hide	:	com.netqin.ps
+Vault-Hide Plgin:	com.ps.vaultprotector
+Vigo Video	:	com.ss.android.ugc.boom
+VigoVdo Lv Phto	:	com.ss.android.ugc.boom.livewallpaper
+VigoVideo Lite	:	com.ss.android.ugc.boomlite
+Bigo Live	:	sg.bigo.live
+Bigo Live Lite	:	sg.bigo.live.lite
+Weibo		:	com.weico.international
+WeChat		:	com.tencent.mm
+Shareit		:	com.lenovo.anyshare.gps
+ShareMe		:	com.xiaomi.midrop
+Uc News		:	com.uc.iflow
+UC Browser	:	com.UCMobile.intl
+UC Browser Mini	:	com.uc.browser.en
+UC Browser Trbo	:	com.ucturbo
+UC Cricket	:	com.CricChat.intl
+Beauty Plus	:	'com.commsource.beautyplus'
+PlusMe Cam	:	com.meitu.beautyplusme
+MakeupPlus	:	com.meitu.makeup
+AirBrush	:	com.magicv.airbrush
+Beauty Cam	:	com.meitu.meiyancamera
+Meitu		:	com.mt.mtxx.mtxx
+O2Cam		:	com.meitu.oxygen
+SelfieCity	:	com.meitu.wheecam
+Pomelo		:	com.beautyplus.pomelo.filters.photo
+AirVid Filters	:	com.meitu.airvid
+MeiPai		:	com.meitu.meipaimv
+Xender		:	cn.xender
+ClubFactory	:	club.fromfactory
+Helo		:	app.buzz.share
+Helo Lite	:	app.buzz.share.lite
+Likee		:	video.like
+Likee Lite	:	video.like.lite
+Kwai		:	com.kwai.video
+Romwe		:	com.romwe
+Shein		:	com.zzkko
+NewsDog		:	com.newsdog
+Photo Wonder	:	com.yubitu.android.YubiCollage
+Apus Browser	:	com.apusapps.browser
+VivaVideo	:	com.quvideo.xiaoying
+VivaVideo Lite	:	com.quvideo.vivavideo.lite
+SlidePlus	:	com.quvideo.slideplus
+VivaVideo Pro	:	com.quvideo.xiaoying.pro
+QQ          :   com.tencent.mobileqq
+Baidu Maps	:	com.autonavi.minimap
+Baidu App	:	com.baidu.searchbox
+Mi Community	:	com.mi.global.bbs
+DU recorder	:	com.DUrecorder.screenrecorder.videorecorde
+YouCam Makeup	:	com.cyberlink.youcammakeup
+Mi Store	:	com.mi.global.shop
+WeChat Work :   com.tencent.wework
+DU Battery Saver:	com.DUsavebattery.faster.charge
+DU Antivirus	:	com.DU.antivirus.cleaner.boosterpro
+DU Caller	:	com.DUcalleradress.trackerlocation.callerid
+DU Cleaner	:	com.DU.Cleaner.antivirus.cleanbooster
+Share Save	:	com.mi.global.jointly
+ClashofKings West:	com.hcg.ctw.gp
+ClshKngs Rmdn	:	com.hcg.cok.gp
+Mail Master	:	com.netease.mail
+NetEase Mail	:	com.netease.mobimail
+BUFF163 Skins	:	com.netease.buff163
+Mi Video	:	com.miui.videoplayer
+Parallel Space	:	com.lbe.parallel.intl
+PrllSpce Pro	:	com.parallel.space.pro
+PrllSpce 64Bit	:	com.lbe.parallel.intl.arm64
+PrllSpce Lite	:	com.parallel.space.lite
+PrllSpce Pro64	:	com.parallel.space.pro.arm64
+PS Lite 64	:	com.parallel.space.lite.arm64
+PS 32Bit	:	com.lbe.parallel.intl.arm32
+PS Lite 32	:	com.parallel.space.lite.arm32
+PS Pro 32	:	com.parallel.space.pro.arm32
+Lica Cam	:	com.lbe.camera.pro
+KnockTower	:	com.lbe.knocktower
+Move Out	:	com.gamestudio.moveout
+Hago Lite   :   com.yy.hagolite
+CamCard     :   com.intsig.BCRLite
+CamCard L   :   com.intsig.BizCardReader
+CamScanner L:   com.intsig.lic.camscanner
+CamScanner  :   com.intsig.camscannerhd
+InNote      :   com.intsig.notes
+CamOCR      :   com.intsig.camocr
+CamCard Bsns:   com.intsig.camcard.enterprise
+CamCard BCR :   com.intsig.BCRLatam
+CamCard Sals:   com.intsig.camcard.sfdc
+SweetSelfieL:   sweet.selfie.lite
+SweetSnapCam:   sweet.facecamera.selfie
+Beauty Cam  :   photo.editor.filter.camera
+SweetCamera :   best.sweet.selfie
+CandySelfie :   com.cam001.selfie361
+Face Camera :   sweet.snapface.facefilter
+CandySelfieL:   sweet.selfie.classic
+SweetCandyCam:  sweet.candy.camera
+VFly        :   com.ai.ifly
+MobileLgndPkt:  com.miya.mobile
+Mi Browser  :   com.mi.globalbrowser
+Mint Browser:   com.mi.globalbrowser.mini
+	
+---------------------------------------------
+Less Priority
+---------------------------------------------
+Mi Music	:	com.miui.player
+Kika Keyboard	:	kika.emoji.keyboard.teclados.clavier
