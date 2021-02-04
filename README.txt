@@ -4,8 +4,7 @@ As this is a very powerful tool. If not handeled very carefully it can delete so
 apps which may result in making you to FACTORY RESET your device. So please go through this 
 whole manual and then try it on your device.
 WARNING: I am not responsible under any circumstances for anything happening to your device.
-
-This software is in testing mode so its a request to all of you not to disclose it with anyone.
+I have tested this project on Windows 10 and Windows 8.1
 You can help me in making this project even better. Hoping to see great response from your side.
 Thank You
 --------------------------------------------------------------------------------------------
