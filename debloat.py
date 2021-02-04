@@ -33,11 +33,11 @@ def isAdmin():
 # check for requirements
 def reqSatisfied(tools):
     try:
-        subprocess.call(tools)
+        os.popen(tools)
         return True
     except:
         print('Requirements are not satisfied...')
-        print('Installing {} to proceed.'.format(tools))
+        print('Installing requirements!')
 
 # getting the list of all the installed app packages on the device
 def installedApps():
