@@ -238,7 +238,7 @@ while True:
             \033[93mHello! I am Kanak Shilledar.
             If you want then you can contact me through the following:
             \tgmail: kanakshilledar111@gmail.com
-            \tJoin Discord server for further help: https://discord.gg/jm8Sr5Z
+            \tJoin Discord server for further help: https://discord.gg/SdtrMZFmBe
             \tThis server will be specifically for discussion on this software.\033[00m ''')
         # Exit Option
         if option == 6:
