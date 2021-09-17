@@ -1,3 +1,7 @@
+TODO: THE CODE NEEDS SOME OPTIMIZATION!
+OPTIMIZATION WILL BE DONE IN THE NEXT VERSION. EXPECTED TO RELEASE BY OCTOBER 2nd WEEK 2021.
+
+
 Welcome!!
 Please read this manual before proceeding to the actual program and uninstalling packages.
 As this is a very powerful tool. If not handeled very carefully it can delete some important 
