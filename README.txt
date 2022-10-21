@@ -1,7 +1,3 @@
-TODO: THE CODE NEEDS SOME OPTIMIZATION!
-OPTIMIZATION WILL BE DONE IN THE NEXT VERSION. EXPECTED TO RELEASE BY OCTOBER 2nd WEEK 2021.
-
-
 Welcome!!
 Please read this manual before proceeding to the actual program and uninstalling packages.
 As this is a very powerful tool. If not handeled very carefully it can delete some important 
@@ -77,7 +73,6 @@ where you turned ON the same.
 As most of the users are using chinese brands like Oppo, Vivo, Redmi, Realme, OnePlus, etc.
 I have not included all the native apps of these devices, but if you want that in further versions
 then join the discord server and give me suggestions and also any new feature you will like to see.
-Link for server: https://discord.gg/SdtrMZFmBe
 THE SERVER IS NOW ACTIVE
 
 ---------------------------------------------------------------------------------------------------
