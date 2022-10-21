@@ -1,8 +1,7 @@
 # This a program used to debloat your smartphone with ease.
 # It requires no programming experience to use. It is just 
-# like a simple application w/hich will be running on command line
-# This program is developed by
-# Kanak Shilledar | Class XII | Nagpur | Date: 08/07/2020
+# like a simple application which will be running on command line
+
 
 # importing libraries
 import ctypes
@@ -104,7 +103,13 @@ CHINESE_APPS = ['com.zhiliaoapp.musically', 'com.baidu.searchbox',
                 'instagramstory.maker.unfold', 'com.cam001.selfie361', 
                 'sweet.snapface.facefilter', 'sweet.selfie.classic',
                 'sweet.candy.camera', 'com.ai.ifly', 'com.miya.mobile', 
-                'com.mi.globalbrowser', 'com.mi.globalbrowser.mini']
+                'com.mi.globalbrowser', 'com.mi.globalbrowser.mini',
+                'com.india.tiktok', 'com.mobile.legends', 'com.us.vmate',
+                'com.dc.hwsj', 'com.apusapps.tools.unreadtips', 'com.jb.gosms',
+                'com.videochat.livu', 'com.yoozoogames.ludogameallstar',
+                'com.lvarappzone.udictionary', 'com.p1.mobile.putong',
+                'com.mico', 'com.youku.phone', 'com.eg.android',
+                'hk.alipay.wallet', 'com.tencent.ibg.ipick', 'com.huya.kiwi',]
 
 # constant running while loop
 while True:
@@ -237,9 +242,7 @@ while True:
             print('''
             \033[93mHello! I am Kanak Shilledar.
             If you want then you can contact me through the following:
-            \tgmail: kanakshilledar111@gmail.com
-            \tJoin Discord server for further help: https://discord.gg/SdtrMZFmBe
-            \tThis server will be specifically for discussion on this software.\033[00m ''')
+            \tgmail: kanakshilledar111@gmail.com \033[00m ''')
         # Exit Option
         if option == 6:
             print('\033[94mExiting! Bye!\033[00m')
